@@ -1,3 +1,5 @@
+package AFirstStep;
+
 public class ifElse {
     public static void main(String[] args) {
         Integer myInt = 1;

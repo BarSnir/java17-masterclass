@@ -1,3 +1,5 @@
+package AFirstStep;
+
 public class ranges {
     public static void main(String[] args) {
         int myIntMin = Integer.MIN_VALUE;

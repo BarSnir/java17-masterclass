@@ -1,3 +1,5 @@
+package AFirstStep;
+
 public class primitivesNumbers {
     public static void main(String[] args) {
         Byte myMinByte = Byte.MIN_VALUE;

@@ -1,3 +1,5 @@
+package AFirstStep;
+
 public class sample {
     public static void main(String[] args) {
         Integer var1 = 1;

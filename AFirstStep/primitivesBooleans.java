@@ -1,3 +1,5 @@
+package AFirstStep;
+
 public class primitivesBooleans {
     public static void main(String[] args) {
         Boolean myBool = true;
